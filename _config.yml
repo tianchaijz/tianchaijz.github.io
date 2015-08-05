@@ -1,0 +1,21 @@
+permalink: /:year/:month/:day/:title
+auto: true
+pygments: true
+markdown: rdiscount
+
+source: .
+destination: ./_site
+exclude: ["Gemfile", "Makefile", "CNAME"]
+
+title: tianchaijz
+url: http://blog.tianchaijz.me/
+tagline: © 2015 Jinzheng Zhang
+
+author:
+  name: Jinzheng Zhang
+  email: tianchaijz@gmail.com
+  github: tianchaijz
+  disqus: tianchaijz
+
+google:
+  tracking_id: UA-64602069-1

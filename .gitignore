@@ -1,0 +1,9 @@
+_site/
+
+.DS_Store
+.rvmrc
+.bundle
+Gemfile.lock
+
+*.swp
+*.swo

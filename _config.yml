@@ -5,7 +5,7 @@ markdown: rdiscount
 
 source: .
 destination: ./_site
-exclude: ["Gemfile", "Makefile", "CNAME"]
+exclude: ["Gemfile", "Makefile", "CNAME", "new_post.sh", "README.md", "TODO.md"]
 
 title: tianchaijz
 url: http://blog.tianchaijz.me/

@@ -69,3 +69,10 @@ https://github.com/nylas/nylas-perftools
 
 https://github.com/agentzh/cheater.git
 ```
+
+## JSON SQL
+```
+# python
+
+https://github.com/ddopson/underscore-cli
+```

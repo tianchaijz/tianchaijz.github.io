@@ -18,6 +18,13 @@ http://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/
 https://github.com/alcides/pascal-in-python
 https://github.com/rui314/minilisp
 www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf
+
+
+Implement a simple lisp interpreter in Cpp, Lua and golang, like those:
+
+http://www.yinwang.org/blog-cn/2012/08/01/interpreter/
+https://gist.github.com/tianchaijz/27a96ce5cbdde7462001
+http://www.zhihu.com/question/20115358
 ```
 
 ## Regexp

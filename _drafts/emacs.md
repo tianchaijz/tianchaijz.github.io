@@ -16,6 +16,7 @@ Emacs
 
 
 #### Complete the docs
+```
 | key bindings                         | explanation                                                              |
 |--------------------------------------+--------------------------------------------------------------------------|
 | M-x shell-command-on-region(M-\vert) | send current region to shell                                             |
@@ -28,6 +29,7 @@ Emacs
 | C-x C-space(or C-x C-@)              | go back to previous line position                                        |
 | C-M-right \vert C-M-left             | go to the beginning or the end of the current expression (C-M-f, C-M-b)  |
 ...
+```
 
 
 #### Articles

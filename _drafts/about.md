@@ -13,4 +13,5 @@ About My Posts
 - Algorithms
 - Book reviews
 - Source code analysis
+- Cpp(PL related)
 - My self plans
